@@ -79,4 +79,3 @@ jobs:
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{
-#made changed here
