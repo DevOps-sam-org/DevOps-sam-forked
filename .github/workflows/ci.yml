@@ -79,3 +79,5 @@ jobs:
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{
+
+#added this lines to test if ir merges to forked repo
